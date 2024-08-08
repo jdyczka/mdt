@@ -53,5 +53,12 @@
     "bio": {
       "@value": ""
     },
+    "dRepName": {
+      "@value": "yuio"
+    },
+    "email": {
+      "@value": ""
+    },
+    "references": []
   }
 }
