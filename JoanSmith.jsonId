@@ -1,7 +1,7 @@
 {
   "@context": {
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
-    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-119/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
     "body": {
       "@id": "CIP119:body",
@@ -54,8 +54,8 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "Joan Smith",
-    "objectives": "wefwrmnfrewf re",
-    "qualifications": "wfmnwefwemf fwe fwe fwe fkew ",
+    "objectives": "Objectives Objectives Objectives Objectives",
+    "qualifications": "Qualifications Qualifications",
     "references": []
   }
 }
