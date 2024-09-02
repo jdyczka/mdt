@@ -62,7 +62,7 @@
       {
         "@type": "Link",
         "uri": "https://example.com/",
-        "CIP119:reference-label": "My first link"
+        "label": "My first link"
       }
     ]
   }
