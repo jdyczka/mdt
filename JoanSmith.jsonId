@@ -61,8 +61,8 @@
     "references": [
       {
         "@type": "Link",
-        "uri": "https://example.com/",
-        "label": "My first link"
+        "label": "My first link",
+        "uri": "https://example.com/"
       }
     ]
   }
