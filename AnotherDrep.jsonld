@@ -61,17 +61,36 @@
       "@value": "AnotherDrep"
     },
     "motivations": {
-      "@value": ""
+      "@value": "Motivations"
     },
     "objectives": {
-      "@value": ""
+      "@value": "Objectives"
     },
     "paymentAddress": {
-      "@value": ""
+      "@value": "addr_test1qz02kj3zfwdjtrz3dk0gfr2knax2vyx9je8gg69ln9xufwazafdkfxkrjvgg8k3tju3mm73s6zkp884s5nvkl6nujn4q97rpx2"
     },
     "qualifications": {
-      "@value": ""
+      "@value": "Qualifications"
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "My Link"
+        },
+        "uri": {
+          "@value": "https://example.com/"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "My Identity"
+        },
+        "uri": {
+          "@value": "https://example.com/"
+        }
+      }
+    ]
   }
 }
